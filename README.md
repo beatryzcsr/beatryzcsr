@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante de Desenvolvimento de Sistemas do curso técnico do SENAI Valinhos. Possuo formação full stack com foco na linguagem JavaScript.
+<p align="center">Estudante de Desenvolvimento de Sistemas do curso técnico SENAI Valinhos. Possuo formação full stack com foco na linguagem JavaScript.
 Estou sempre buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos em diversas soluções.
   
 #
