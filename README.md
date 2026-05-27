@@ -18,7 +18,7 @@ Estou sempre buscando novos desafios na área de tecnologia. Tenho paixão por a
 <h3 align="left">Connect with me!</h3>
 
 <p> <b> Email: </b> beatryzsenai2312@gmail.com
-<p> <b> Linkedin: </b> www.linkedin.com/in/beatryz-caroline-dos-santos-rodrigues-23a74038b
+<p> <b> Linkedin: </b> linkedin.com/in/beatryzCaroline
 
 
 <h3 align="left">My Stack ~</h3>
